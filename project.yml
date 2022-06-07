@@ -25,7 +25,6 @@
 
 packages:
   - name: redis
-    shared: true
     web: false
 
 environment: $(
